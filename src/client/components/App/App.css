@@ -1,6 +1,5 @@
 @import '../../../../node_modules/npm-font-open-sans/open-sans.css';
 
-
 body {
   background-color: #8CC6D7;
   font-family: 'Open Sans';
@@ -9,6 +8,44 @@ body {
   -ms-user-select: none;
   user-select: none;
   margin: 0;
+}
+.github-link{
+  position:fixed;
+  top: 0;
+  left: 0;
+  padding: 10px;
+  text-decoration:none;
+  background-color: #FFDA8C;
+}
+.github-link-a{
+  color: #34393E;
+  text-decoration:none;
+  font-size: 18px;
+  -webkit-transition: all .5s ease;
+-moz-transition: all .5s ease;
+transition: all .5s ease;
+}
+.github-link:hover .github-link-a{
+font-size: 22px;
+}
+.marcdubois-link{
+  position:fixed;
+  top: 0;
+  right: 0;
+  padding: 10px;
+  text-decoration:none;
+  background-color: #FFDA8C;
+}
+.marcdubois-link-a{
+  color: #34393E;
+  text-decoration:none;
+  font-size: 18px;
+  -webkit-transition: all .5s ease;
+-moz-transition: all .5s ease;
+transition: all .5s ease;
+}
+.marcdubois-link:hover .marcdubois-link-a{
+font-size: 22px;
 }
 
 .search-zone{

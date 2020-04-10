@@ -108,6 +108,8 @@ render() {
   //This code was created by Marc Dubois
     return (
       <div>
+      <div styleName="github-link"><a styleName="github-link-a"target="_blank" href="https://github.com/marcdubois71450/trouvetontrain">Voir le code</a></div>
+      <div styleName="marcdubois-link"><a styleName="marcdubois-link-a"target="_blank" href="https://marcdubois.fr">Réalisé par Marc Dubois</a></div>
         <div styleName="search-zone">
           <div styleName={this.state.formatted_address_from_state ? 'search-zone-from search-zone-gare' : 'search-zone-from search-zone-nogare'}>
               <div styleName="title-from">Lieu de départ</div>
