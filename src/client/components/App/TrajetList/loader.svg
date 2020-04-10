@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="margin: auto; background: none; display: block; shape-rendering: auto;" width="200px" height="200px" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+  <g transform="translate(50 50)">
+    <g transform="scale(0.72)">
+      <g transform="translate(-50 -50)">
+        <g transform="rotate(341.854 50.0001 50.0001)">
+          <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" values="0 50 50;360 50 50" keyTimes="0;1" dur="1s"></animateTransform>
+          <path fill-opacity="0.9" fill="#ff5b2b" d="M50 50L50 0A50 50 0 0 1 100 50Z"></path>
+        </g>
+        <g transform="rotate(256.393 50 50)">
+          <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" values="0 50 50;360 50 50" keyTimes="0;1" dur="1.3333333333333333s"></animateTransform>
+          <path fill-opacity="0.9" fill="#b1221c" d="M50 50L50 0A50 50 0 0 1 100 50Z" transform="rotate(90 50 50)"></path>
+        </g>
+        <g transform="rotate(170.927 50 50)">
+          <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" values="0 50 50;360 50 50" keyTimes="0;1" dur="2s"></animateTransform>
+          <path fill-opacity="0.9" fill="#34393e" d="M50 50L50 0A50 50 0 0 1 100 50Z" transform="rotate(180 50 50)"></path>
+        </g>
+        <g transform="rotate(85.4635 50 50)">
+          <animateTransform attributeName="transform" type="rotate" repeatCount="indefinite" values="0 50 50;360 50 50" keyTimes="0;1" dur="4s"></animateTransform>
+          <path fill-opacity="0.9" fill="#ffda8c" d="M50 50L50 0A50 50 0 0 1 100 50Z" transform="rotate(270 50 50)"></path>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

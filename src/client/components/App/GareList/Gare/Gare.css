@@ -1,0 +1,30 @@
+.gare-select{
+border: 2px solid #34393E;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 10px;
+padding-bottom: 2px;
+background-color: #FFDA8C;
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+font-size: 22px;
+text-overflow: ellipsis;
+height: 38px;
+color: #34393E;
+}
+
+.gare {
+padding-left: 10px;
+padding-right: 10px;
+padding-top: 12px;
+background-color: #FFDA8C;
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+font-size: 22px;
+overflow: scroll;
+height: 42px;
+color: #34393E;
+cursor: pointer;
+}

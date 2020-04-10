@@ -1,0 +1,12 @@
+.etape {
+  width: 80%;
+  margin-left: 10%;
+  font-size: 15px;
+  font-weight: bold;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #34393E;
+  color: #34393E;
+  padding:5px;
+  margin-top: 20px;
+}
