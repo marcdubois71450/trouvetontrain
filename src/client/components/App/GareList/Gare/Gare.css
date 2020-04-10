@@ -27,4 +27,11 @@ overflow: scroll;
 height: 42px;
 color: #34393E;
 cursor: pointer;
+-ms-overflow-style: none;
+scrollbar-width: none; 
+}
+
+
+.gare::-webkit-scrollbar {
+display: none;
 }
