@@ -1,6 +1,8 @@
 import Geocode from "react-geocode";
 //This code was created by Marc Dubois
-const GOOGLE_API_KEY = "AIzaSyBpHSE7RyT9RXElOHMjtYqkYLaUWSi-cRA";
+
+console.log("Please set your google api key");
+const GOOGLE_API_KEY = "API-KEY";
 
 export function geocodeSearch(searchKeyWord) {
     return new Promise((resolve, reject) => {
