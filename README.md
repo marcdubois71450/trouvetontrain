@@ -15,7 +15,7 @@ git clone https://github.com/marcdubois71450/trouvetontrain.git && cd trouvetont
 ```
 npm install
 ```
-- Set [Your Google API Key](https://console.cloud.google.com/apis/credentials) on [src/client/components/Services/geocode.js](https://github.com/marcdubois71450/trouvetontrain/blob/master/src/client/components/Services/geocode.js)
+- Set [Your Google API Key](https://console.cloud.google.com/apis/credentials) on [src/client/components/Services/geocode.js](https://github.com/marcdubois71450/trouvetontrain/blob/master/src/client/components/Services/geocode.js#L4)
 
 The project is ready to use
 
