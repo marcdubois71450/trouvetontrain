@@ -11,7 +11,7 @@ This my TrouveTonTrain Project!
 ```
 git clone https://github.com/marcdubois71450/trouvetontrain.git && cd trouvetontrain
 ```
-- Install the necessary packages with [npm](https://nodejs.org/en/download/)
+- Install the necessary packages
 ```
 npm install
 ```
