@@ -16,6 +16,9 @@ Install the necessary packages
 ```
 npm install
 ```
+Set [Your Google API Key](https://console.cloud.google.com/apis/credentials) on 
+[src/client/components/Services/geocode.js](https://github.com/marcdubois71450/trouvetontrain/blob/master/src/client/components/Services/geocode.js)
+
 The project is ready to use
 
 
