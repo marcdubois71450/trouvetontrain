@@ -4,6 +4,7 @@ This my TrouveTonTrain Project!
 
 ### Project recovery
 Install [node and npm](https://nodejs.org/en/download/) 
+
 Install [git](https://git-scm.com/downloads)
 
 Clone the git repository and move in the right folder
