@@ -29,8 +29,8 @@ The developement server is ready on port 3000
 
 
 ### Production
-- Build project to "dist" folder
+- Build project to `dist` folder
 ```
 npm start
 ```
-Open index.html and enjoy
+Open `dist/index.html` with your favorite browser and enjoy.
