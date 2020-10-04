@@ -10,7 +10,6 @@ This my TrouveTonTrain Project!
 - Clone the git repository and move in the right folder
 ```
 git clone https://github.com/marcdubois71450/trouvetontrain.git && cd trouvetontrain
-
 ```
 - Install the necessary packages with [npm](https://nodejs.org/en/download/)
 ```
