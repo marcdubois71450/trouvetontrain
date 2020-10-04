@@ -3,21 +3,19 @@
 This my TrouveTonTrain Project!
 
 ### Project recovery
+Install [node and npm](https://nodejs.org/en/download/) 
+Install [git](https://git-scm.com/downloads)
 
-Clone the git repository
+Clone the git repository and move in the right folder
 ```
-git clone https://github.com/marcdubois71450/trouvetontrain.git
+git clone https://github.com/marcdubois71450/trouvetontrain.git && cd trouvetontrain
+
 ```
-Move in the right folder
-```
-cd trouvetontrain
-```
-Install the necessary packages
+Install the necessary packages with [npm](https://nodejs.org/en/download/)
 ```
 npm install
 ```
-Set [Your Google API Key](https://console.cloud.google.com/apis/credentials) on 
-[src/client/components/Services/geocode.js](https://github.com/marcdubois71450/trouvetontrain/blob/master/src/client/components/Services/geocode.js)
+Set [Your Google API Key](https://console.cloud.google.com/apis/credentials) on [src/client/components/Services/geocode.js](https://github.com/marcdubois71450/trouvetontrain/blob/master/src/client/components/Services/geocode.js)
 
 The project is ready to use
 
@@ -35,3 +33,4 @@ Build project to "dist" folder
 ```
 npm start
 ```
+Open index.html and enjoy
