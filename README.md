@@ -1,6 +1,6 @@
 # TrouveTonTrain | Marc Dubois
 
-This my TrouveTonTrain Project!
+This my TrouveTonTrain Project! This project use SNCF API and Geacoding API.
 
 ### Project recovery
 - Install [node and npm](https://nodejs.org/en/download/) 
