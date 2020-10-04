@@ -1,6 +1,6 @@
 # TrouveTonTrain | Marc Dubois
 
-This my TrouveTonTrain Project! This project use [SNCF API](https://data.sncf.com/explore/dataset/referentiel-gares-voyageurs/) and [Geocoding API](https://console.cloud.google.com/marketplace/product/google/geocoding-backend.googleapis.com).
+This my TrouveTonTrain Project! This project use [SNCF API](https://data.sncf.com/) and [Geocoding API](https://console.cloud.google.com/marketplace/product/google/geocoding-backend.googleapis.com).
 
 ### Project recovery
 - Install [node and npm](https://nodejs.org/en/download/) 
