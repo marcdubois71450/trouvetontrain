@@ -1,8 +1,11 @@
 import Geocode from "react-geocode";
 //This code was created by Marc Dubois
 
-console.log("Please set your google api key");
 const GOOGLE_API_KEY = "API-KEY";
+
+if (GOOGLE_API_KEY == "API-KEY") {
+  console.log("Please set your google api key, check https://console.cloud.google.com/apis/credentials");
+}
 
 export function geocodeSearch(searchKeyWord) {
     return new Promise((resolve, reject) => {
