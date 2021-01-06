@@ -12,7 +12,7 @@
   "author": "Marc Dubois",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-react-css-modules": "^5.2.6",
     "npm-font-open-sans": "^1.1.0",
     "react": "^16.12.0",
